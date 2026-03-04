@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "3 Strikes",
+  "base_artist": "Terror Jr",
+  "createdAt": "2026-03-04T10:19:59.765222Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Satanic Slumber Party Part 3 (Hoof And Horn)",
+      "artist": "Tropical Fuck Storm feat. King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Satanic_Slumber_Party_Part_3_(Hoof_And_Horn)_Tropical_Fuck_Storm_feat._King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "1, 2, 3 Mississippi",
+      "artist": "Brett Young",
+      "has_synced": true,
+      "path": "select/02_1,_2,_3_Mississippi_Brett_Young.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "John Cougar, John Deere, John 3:16",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/03_John_Cougar,_John_Deere,_John_3_16_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Allegro Opus 3.3am",
+      "artist": "Eason Chan",
+      "has_synced": true,
+      "path": "select/04_Allegro_Opus_3.3am_Eason_Chan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Allegro, Opus 3.3 a.m.",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/05_Allegro,_Opus_3.3_a.m._陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Macadam 3, 2, 1, 0",
+      "artist": "Riff",
+      "has_synced": false,
+      "path": "select/06_Macadam_3,_2,_1,_0_Riff.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "慢歌 3",
+      "artist": "陳綺貞",
+      "has_synced": true,
+      "path": "select/07_慢歌_3_陳綺貞.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "3 - Live",
+      "artist": "Girls' Generation feat. SUNNY",
+      "has_synced": true,
+      "path": "select/08_3_-_Live_Girls'_Generation_feat._SUNNY.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "3 (써니)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/09_3_(써니)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Strawberry Swisher pt. 3",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/10_Strawberry_Swisher_pt._3_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Strawberry Swisher, Pt. 3",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/11_Strawberry_Swisher,_Pt._3_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Strawberry Swisher, Pt. 3 (Tree City Sessions)",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/12_Strawberry_Swisher,_Pt._3_(Tree_City_Sessions)_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Robot with Human Hair Pt. 3",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/13_The_Robot_with_Human_Hair_Pt._3_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "1, 2, 3, fyre (radio versjon)",
+      "artist": "Side Brok",
+      "has_synced": false,
+      "path": "select/14_1,_2,_3,_fyre_(radio_versjon)_Side_Brok.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "1 2 3 fyre",
+      "artist": "Sidebrok",
+      "has_synced": false,
+      "path": "select/15_1_2_3_fyre_Sidebrok.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "3 1/2 Minuten",
+      "artist": "Dendemann",
+      "has_synced": false,
+      "path": "select/16_3_1_2_Minuten_Dendemann.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "3 1\u00002 Minuten",
+      "artist": "Dendemann",
+      "has_synced": false,
+      "path": "select/17_3_1\u00002_Minuten_Dendemann.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "3 Strikes",
+      "artist": "Terror Jr",
+      "has_synced": false,
+      "path": "select/pl_01_3_Strikes_Terror_Jr.txt"
+    }
+  ]
+}
