@@ -1,0 +1,101 @@
+# Terror Jr – 3 Strikes
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Down for one night, like I got
+three strikes
+Down for one night, like I got
+three strikes
+Down for one night, like I got
+three strikes
+Down for one night, like I got
+three strikes
+-don me (ain't) -don me (yeah)
+-don me
+-don me, called on me, called on
+me
+-don me (ain't) -don me (yeah)
+-don me
+-don me, called on me, called on
+me
+Doing like 95 on the interstate
+Looking for a dinner plate
+I'm hungry, you called me
+To say you got something, and
+it's all me
+Can you hold me down for one
+night, like I got three strikes?
+I need you to free me, it's a
+prison inside my mind
+Break me, taste me
+Roll me up like the northern
+lights
+Can you hold me down for one
+night, like I got three strikes?
+-don me (ain't) -don me (yeah)
+-don me
+-don me, called on me, called on
+me
+-don me (ain't) -don me (yeah)
+-don me
+-don me, called on me, (like I
+got three strikes) called on me
+-don me (ain't) -don me (yeah)
+-don me
+-don me, called on me, called on
+me
+-don me (ain't) -don me (yeah)
+-don me
+-don me, called on me, (like I
+got three strikes) called on me
+Lit up, burnt out
+Closer to God than we've ever
+been now
+Sipping slow, talking loud
+Enough soul, we could sell out
+Can you hold me down for one
+night, like I got three strikes?
+I need you to free me, it's a
+prison inside my mind
+Break me, taste me
+Roll me up like the northern
+lights
+Can you hold me down for one
+night, like I got three strikes?
+-don me (ain't) -don me (yeah)
+-don me
+-don me, called on me, called on
+me
+-don me (ain't) -don me (yeah)
+-don me
+-don me, called on me, (like I
+got three strikes)
+-don me (ain't) -don me (yeah)
+-don me
+-don me, called on me, called on
+me
+-don me (ain't) -don me (yeah)
+-don me
+-don me, called on me, (like I
+got three strikes) called on me
+(ain't) -don me (yeah) -don me
+-don me, called on me, called on
+me
+-don me (ain't) -don me (yeah)
+-don me
+-don me, called on me, (like I
+got three strikes)
+-don me (ain't) -don me (yeah)
+-don me
+-don me, called on me, called on
+me
+-don me (ain't) -don me (yeah)
+-don me
+-don me, called on me, (like I
+got three strikes) called on me
+Like I got three strikes
+Like I got three strikes
+Like I got three strikes
+Like I got three strikes
+```
